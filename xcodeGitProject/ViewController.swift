@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         
         tstlbl.text = "Black Label"
         // Do any additional setup after loading the view.
+        
+        tstlbl.text = "After first commit"
     }
 
 
