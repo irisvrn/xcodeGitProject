@@ -19,6 +19,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         tstlbl.text = "After first commit"
+        
+         tstlbl.text = "Push To GitHub"
+        
     }
 
 
