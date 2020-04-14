@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         
         tstlbl.text = "After first commit"
         
-         tstlbl.text = "Push To GitHub"
+        // tstlbl.text = "Push To GitHub"
         
     }
 
