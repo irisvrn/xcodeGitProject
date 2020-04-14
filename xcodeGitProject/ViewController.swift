@@ -10,8 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var tstlbl: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        tstlbl.text = "Black Label"
         // Do any additional setup after loading the view.
     }
 
